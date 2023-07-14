@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "slug": "batom-rosa-1",
+      "nome": "Batom Rosa",
+      "descricao": "Batom de cor rosa vibrante com acabamento matte",
+      "preco": 29.99
+    },
+    {
+      "id": 2,
+      "slug": "hidratante-facial-2",
+      "nome": "Hidratante Facial",
+      "descricao": "Hidratante facial para pele seca, com vitamina E e ácido hialurônico",
+      "preco": 59.99
+    },
+    {
+      "id": 3,
+      "slug": "paleta-de-sombras-3",
+      "nome": "Paleta de Sombras",
+      "descricao": "Paleta de sombras com tons neutros para criar looks versáteis",
+      "preco": 89.99
+    },
+    {
+      "id": 4,
+      "slug": "creme-anti-idade-4",
+      "nome": "Creme Anti-idade",
+      "descricao": "Creme anti-idade com colágeno e ácido retinóico para redução de rugas",
+      "preco": 129.99
+    },
+    {
+      "id": 5,
+      "slug": "esmalte-vermelho-5",
+      "nome": "Esmalte Vermelho",
+      "descricao": "Esmalte de unhas na cor vermelha clássica com acabamento brilhante",
+      "preco": 9.99
+    }
+  ]
